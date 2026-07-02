@@ -1,2 +1,2 @@
-include:
-  branches: ["v?"]
+skip:
+  branches: ["legacy/*"]
