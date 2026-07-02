@@ -1,4 +1,2 @@
 include:
   branches: ["main"]
-skip:
-  labels: ["blocked"]
