@@ -1,2 +1,2 @@
 include:
-  branches: ["release/{1,2}"]
+  branches: ["v?"]
