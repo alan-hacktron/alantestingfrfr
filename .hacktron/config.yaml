@@ -1,4 +1,0 @@
-include:
-  branches: ["main"]
-skip:
-  labels: ["WIP"]
