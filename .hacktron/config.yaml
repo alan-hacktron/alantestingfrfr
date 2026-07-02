@@ -1,5 +1,4 @@
 include:
   branches: ["main"]
-  labels: ["feature"]
 skip:
-  labels: ["wip"]
+  labels: ["blocked"]
