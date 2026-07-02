@@ -1,2 +1,0 @@
-skip:
-  branches: ["release/legacy/*"]
