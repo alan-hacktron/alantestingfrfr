@@ -1,4 +1,3 @@
 include:
   branches: ["main"]
-skip:
-  labels: ["wip"]
+  labels: ["feature"]
