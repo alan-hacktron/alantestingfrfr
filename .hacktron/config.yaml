@@ -1,2 +1,2 @@
-skip:
-  branches: ["release/legacy/*"]
+include:
+  branches: ["main"]
